@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://upaefaoph.nixcon2017.org/sitemap.xml
